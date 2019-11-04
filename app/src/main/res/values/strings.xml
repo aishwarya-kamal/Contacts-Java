@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="random_quote">Random Quote</string>
+    <string name="motivation_details">I enjoy helping people and making a difference in their lives. It gives me a great sense of happiness and fulfilment when I help others. One of the ways I can do that is by solving their problems through technology. It feels very rewarding when I connect with people and be able to make an impact on them, even if it is a minor impact.</string>
+    <string name="motivation">Motivation</string>
+    <string name="my_email">aishwaryakamal5@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="my_number">+916309827219</string>
+    <string name="phone">Phone</string>
+    <string name="my_name">Aishwarya Kamal</string>
+    <string name="name">Name</string>
+    <string name="retrieving_quote">Retrieving Random Quote from API</string>
+</resources>
